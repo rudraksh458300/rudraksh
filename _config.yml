@@ -1,0 +1,13 @@
+title: "Your Name"
+description: "Short tagline about who you are."
+theme: minima
+
+author:
+  name: "Your Name"
+  email: "you@example.com"
+
+header_pages:
+  - index.md
+
+github_username: your-github-user
+linkedin_username: your-linkedin-handle
